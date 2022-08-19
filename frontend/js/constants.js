@@ -1,9 +1,9 @@
 const contractAddress = "0xf5bb81Cd498b2326A12D096621905F10d0dCA219"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to BasedWhales!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'BasedWhales is a community-driven collection of 5,000 whales thriving on the Polygon Blockchain, each with unique features. The BasedWhales are confidently authentic, friendly, optimistic and always on the search for the next 100x. Our aim is to unite the crypto community, and inspire a sense of joyous amusement to see us through the bear market. Established or aspiring whales, everyone is welcome! We will come out the other side stronger, together, and BASED AF.';
 const h1_presale_coming_soon = "";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
