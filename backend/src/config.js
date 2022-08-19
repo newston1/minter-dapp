@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "BasedWhales";
-const description = "BasedWhales is a community-driven collection of 5,000 whales thriving on the Polygon Blockchain, each with unique features. The BasedWhales are confidently authentic, friendly, optimistic and always on the search for the next 100x. Our aim is to unite the crypto community, and inspire a sense of vibrant joy & amusement to see us through the bear market. Established or aspiring whales, everyone is welcome! We will come out the other side stronger, together, and BASED AF.";
+const description = "BasedWhales is a cmmunity-driven collection of 5,000 whales thriving on the Polygon Blockchain, each with unique features. The BasedWhales are confidently authentic, friendly, optimistic and always on the search for the next 100x. Our aim is to unite the crypto community, and inspire a sense of vibrant joy & amusement to see us through the bear market. Established or aspiring whales, everyone is welcome! We will come out the other side stronger, together, and BASED AF.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 const layerConfigurations = [
