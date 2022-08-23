@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to BasedWhales!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'BasedWhales is a community-driven collection of 5,000 whales thriving on the Polygon Blockchain, each with unique features. The BasedWhales are confidently authentic, friendly, optimistic and always on the search for the next 100x. Our aim is to unite the crypto community, and inspire a sense of joyous amusement to see us through the bear market. Established or aspiring whales, everyone is welcome! We will come out the other side stronger, together, and BASED AF.';
+const welcome_p = 'BasedWhales is a community-driven collection of 5,000 whales thriving on the Polygon Blockchain, each with unique features. The BasedWhales are confidently authentic, frenly, optimistic and always on the search for the next 100x. We aim to unite the crypto community, and inspire an amusing sense of joy to see us through the bear market. Established or aspiring whales, everyone is welcome! We will come out the other side stronger, together, and BASED AF.';
 const h1_presale_coming_soon = "";
 const h1_presale_mint = "Minting soon - stay tuned.Load your wallet, get ready!!";
 const h1_public_mint = "Mint is now Live! Good luck & enjoy Based fam";
